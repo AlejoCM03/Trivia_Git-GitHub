@@ -13,6 +13,24 @@
 - Iram ➡️ *pendiente*
 
 
+## Recomendaciones para los commits.
+Un buen commit siempre tiene que tener una buena estructura, es decir, debe ser corto pero claro.
+Ejemplo de un commit si estamos trabajando en colaboración:
+```
+[ADDED][TEST][SECURITYWAR]
+```
+- El primer parámetro contiene lo que agregamos, quitamos, modificamos, arreglamos. Siempre o casi simepre va en pasado el verbo (ya sea en inglés o español).
+- El segundo parámetro contiene *el nombre de la rama* donde se está trabajando.
+- El último se le designa si se está  trabajando con equipo, se le pone el nombre del equipo, sino puede ser nada más OWNER (propio), COLLABORATOR (si es una colaboración).
+
+Es necesario agregar lo que se hizo como comentario extra, por ejemplo, si se agregó a un nuevo estilo o también si se arregló un fallo de seguridad.
+
+Recuerda que para tener este comentario en el commit usa el siguiente comando cuando hagas tu commit.
+
+```
+git commit -m "[ADDED][TEST][SECURITYWAR]" -m "Added a new function to return -1 if the values are over 2000 bits"
+```
+
 ## Archivos de Python
 
 Archivo de preguntas (**questions.py**)
