@@ -1,7 +1,8 @@
 # Trivia_Git-GitHub ❓🏆
 
 ## Instrucciones
-
+1. Haz un ***Fork*** al repositorio. 🍴
+2. Clona el repositorio el de que hiciste el **Fork**. 📑
 
 
 ## Ramas asignadas por temas
