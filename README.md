@@ -10,6 +10,7 @@
 - Bryan ➡️ **deportes**.
 - Alan  ➡️ **videojuegos**
 - Victor ➡️ **comics**
+- Leopoldo ➡️ **books**
 - Mariana ➡️ *pendiente*
 - Iram ➡️ *pendiente*
 
