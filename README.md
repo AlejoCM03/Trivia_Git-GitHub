@@ -3,6 +3,15 @@
 ## Instrucciones
 1. Haz un ***Fork*** al repositorio. 🍴
 2. Clona el repositorio el de que hiciste el **Fork**. 📑
+3. Crea una rama titulada con el tema que decidiste
+4. Trabaja sobre esa rama, recuerda hacer como minimo 6 commits y 12 preguntas
+5. Una vez terminado tu trabajo, sube a tu repositorio
+6. Has un pull request
+
+## Consideraciones
+
+Puedes tener puntos extra, esto depende de que tanto decidas agragar a tu rama.
+Recuerda que es ahora tu proyecto, nosotros solo te pedimos lo minimo, tu puedes dar lo maximo;)
 
 
 ## Ramas asignadas por temas
