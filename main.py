@@ -17,7 +17,7 @@ def hacer_pregunta(pregunta):
 
 # Función principal para la trivia
 def trivia_game():
-    print("¡Bienvenido a la trivia sobre Deportes!")
+    print("¡Bienvenido a la trivia sobre Deportes (Juegos olímipicos)!")
     random.shuffle(trivia_github)
     puntaje = 0
     for pregunta in trivia_github:
