@@ -1,34 +1,90 @@
 # Preguntas y respuestas
 trivia_github = [
     {
-        "pregunta": "¿Qué es GitHub?",
-        "opciones": ["Una plataforma para el control de versiones y colaboración de código", 
-                     "Un lenguaje de programación", 
-                     "Una red social", 
-                     "Un sistema operativo"],
-        "respuesta": "Una plataforma para el control de versiones y colaboración de código"
+        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de la era moderna?",
+        "opciones": ["1896", 
+                     "1900", 
+                     "1904", 
+                     "1912"],
+        "respuesta": "1896"
     },
     {
-        "pregunta": "¿En qué año se lanzó GitHub?",
-        "opciones": ["2005", "2008", "2010", "2012"],
-        "respuesta": "2008"
+        "pregunta": "¿En qué ciudad se llevaron a cabo los primeros Juegos Olímpicos de la era moderna?",
+        "opciones": ["París", "Atenas", "Xochimilco", "Estocolmo"],
+        "respuesta": "Atenas"
     },
     {
-        "pregunta": "¿Quién es el creador de Git?",
-        "opciones": ["Linus Torvalds", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
-        "respuesta": "Linus Torvalds"
+        "pregunta": "¿Cuál es el símbolo principal de los Juegos Olímpicos?",
+        "opciones": ["Una llama", "Un globo", "Cinco aros entrelazados", "Una antorcha"],
+        "respuesta": "Cinco aros entrelazados"
     },
     {
-        "pregunta": "¿Qué comando de Git se usa para clonar un repositorio?",
-        "opciones": ["git clone", "git commit", "git push", "git merge"],
-        "respuesta": "git clone"
+        "pregunta": "¿Cuántos deportes formaron parte de los primeros Juegos Olímpicos modernos en 1896?",
+        "opciones": [" 9", "12", "15", "24"],
+        "respuesta": "9"
     },
     {
-        "pregunta": "¿Qué es un pull request en GitHub?",
-        "opciones": ["Una solicitud para fusionar cambios en un repositorio", 
-                     "Una solicitud para clonar un repositorio", 
-                     "Una solicitud para eliminar un repositorio", 
-                     "Una solicitud para renombrar un repositorio"],
-        "respuesta": "Una solicitud para fusionar cambios en un repositorio"
+        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
+        "opciones": ["Golf", 
+                     "Surf", 
+                     "Karate", 
+                     "Skateboarding"],
+        "respuesta": "Skateboarding"
+    },
+    {
+        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
+        "opciones": ["Golf", 
+                     "Surf", 
+                     "Karate", 
+                     "Skateboarding"],
+        "respuesta": "Skateboarding"
+    },
+    {
+        "pregunta": "¿Qué país ha ganado más medallas en la historia de los Juegos Olímpicos?",
+        "opciones": ["China", 
+                     "EUA", 
+                     "México", 
+                     "Rusia"],
+        "respuesta": "EUA"
+    },
+    {
+        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de Invierno?",
+        "opciones": ["1920", 
+                     "1924", 
+                     "1932", 
+                     "1948"],
+        "respuesta": "1924"
+    },
+    {
+        "pregunta": "¿Qué ciudad es la única que ha albergado los Juegos Olímpicos de Verano y de Invierno??",
+        "opciones": ["Beijing", 
+                     "Londres", 
+                     "París", 
+                     "Atenas"],
+        "respuesta": "Beijing"
+    },
+    {
+        "pregunta": "¿Qué atleta ha ganado más medallas en la historia de los Juegos Olímpicos?",
+        "opciones": ["Carl Lewis", 
+                     "Usain Bolt", 
+                     "Larisa Latynina", 
+                     "Michael Phelps"],
+        "respuesta": "Michael Phelps"
+    },
+    {
+        "pregunta": "¿Qué país ha albergado los Juegos Olímpicos más veces?",
+        "opciones": ["Estados Unidos", 
+                     "Reino Unido", 
+                     "Francia", 
+                     "Japón"],
+        "respuesta": "Estados Unidos"
+    },
+    {
+        "pregunta": "¿Cuál es el deporte más antiguo que se practica en los Juegos Olímpicos modernos?",
+        "opciones": ["Atletismo", 
+                     "Natación", 
+                     "Lucha libre", 
+                     "Gimnasia"],
+        "respuesta": "Atletismo"
     }
 ]

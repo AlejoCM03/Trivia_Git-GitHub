@@ -15,9 +15,9 @@ def hacer_pregunta(pregunta):
         print(f"Incorrecto. La respuesta correcta es: {pregunta['respuesta']}")
         return False
 
-# Función principal para la trivia
+# Función principal para la trivia 
 def trivia_game():
-    print("¡Bienvenido a la trivia sobre GitHub!")
+    print("¡Bienvenido a la trivia sobre Deportes (Juegos olímipicos)!")
     random.shuffle(trivia_github)
     puntaje = 0
     for pregunta in trivia_github:
