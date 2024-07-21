@@ -41,3 +41,43 @@ while(1):
         exit()
     else:
         print("Introduce una opción de las que se muestran en pantalla.")
+print("-------------------------------------------------------------------------------")
+print("Tercer pregunta:")
+print("¿En qué año se lanzó el primer videojuego de Super Mario Bros.?")
+print(" 1.-1983\n 2.-1985 \n 3.-1987 \n 4.-1989 \n 5.- Siguiente pregunta \n 6.- Salir. \n")
+while(1):
+    opcion=0 
+    print("\t\tIntento número",i)
+    opcion= int(input("Seleccione la opción:"))
+    i+=1
+    if opcion==1 or opcion==3 or opcion==4:
+        print("Error, intenta de nuevo")
+    elif opcion==2:
+        print("¡Correcto!")
+        break
+    elif opcion==5:
+        break
+    elif opcion==6:
+        exit()
+    else:
+        print("Introduce una opción de las que se muestran en pantalla.")
+print("-------------------------------------------------------------------------------")
+print("Cuarta pregunta:")
+print("¿Cuál de estos videojuegos fue desarrollado por la empresa Blizzard Entertainment?")
+print(" 1.-The Elder Scrolls V: Skyrim \n 2.- Grand Theft Auto V \n 3.- World of Warcraft\n 3.- The Witcher 3: Wild Hunt\n 5.- Siguiente pregunta \n 6.- Salir. \n")
+while(1):
+    opcion=0 
+    print("\t\tIntento número",i)
+    opcion= int(input("Seleccione la opción:"))
+    i+=1
+    if opcion==1 or opcion==2 or opcion==4:
+        print("Error, intenta de nuevo")
+    elif opcion==3:
+        print("¡Correcto!")
+        break
+    elif opcion==5:
+        break
+    elif opcion==6:
+        exit()
+    else:
+        print("Introduce una opción de las que se muestran en pantalla.")
