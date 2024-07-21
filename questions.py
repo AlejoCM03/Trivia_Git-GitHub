@@ -3,13 +3,13 @@ trivia_books = [
     {
         "pregunta": "¿Cúales de los siguientes libros es escrito por Alice Kellen?",
         "opciones": ["Boulevard", 
-                     "Antes de Diciembre", 
+                     "Antes De Diciembre", 
                      "Despues de Diciembre", 
-                     "El mapa de los anhelos"],
-        "respuesta": "El mapa de los anhelos"
+                     "El Mapa de los Anhelos"],
+        "respuesta": "El Mapa de los Anhelos"
     },
     {
-        "pregunta": "El libro 'Antes de Diciembre' es el primero de la trología 'Meses a tu lado'",
+        "pregunta": "El libro 'Antes de Diciembre' es el primero de la trología 'Meses a tu Lado'",
         "opciones": ["Verdadero", "Falso"],
         "respuesta": "Verdadero"
     },
@@ -19,7 +19,7 @@ trivia_books = [
         "respuesta": "Flor M. Salvador"
     },
     {
-        "pregunta": "¿Cuántos libros hay después de boulevard?",
+        "pregunta": "¿Cuántos libros hay después de Boulevard?",
         "opciones": [" 2", "1", "Boulevard es el único", "4"],
         "respuesta": "2"
     },
@@ -39,14 +39,14 @@ trivia_books = [
     },
     {
         "pregunta": "¿Cuál de los siguientes títulos NO pertenece a un libro?",
-        "opciones": ["Un beso bajo la lluvia", 
-                     "Después de el", 
+        "opciones": ["Un Beso Bajo la Lluvia", 
+                     "Después de Él", 
                      "Luces de Febrero", 
-                     "La canción"],
+                     "La Canción"],
         "respuesta": "La canción"
     },
     {
-        "pregunta": "¿En qué año se estrenó 'Las luces de febrero' en librerías?",
+        "pregunta": "¿En qué año se estrenó 'Las luces de Febrero' en librerías?",
         "opciones": ["2020", 
                      "2022", 
                      "2024", 
@@ -54,12 +54,12 @@ trivia_books = [
         "respuesta": "2023"
     },
     {
-        "pregunta": "¿En qué país está ambientado el libro 'El chico de arriba'?",
+        "pregunta": "¿En qué país está ambientado el libro 'El Chico de Arriba'?",
         "opciones": ["México", 
                      "Estados Unidos", 
                      "Chile", 
                      "Colombia"],
-        "respuesta": "México"
+        "respuesta": "Estados Unidos"
     },
     {
         "pregunta": "¿Quién escribió 'El Principito'?",
@@ -72,9 +72,9 @@ trivia_books = [
     {
         "pregunta": "'Ser o no ser, esa es la cuestión’. ¿De qué libro es esta cita?",
         "opciones": ["Romeo y Julieta", 
-                     "El chico de arriba", 
+                     "El Chico de Arriba", 
                      "Hamlet", 
-                     "El diario de Ana Frank"],
+                     "El Diario de Ana Frank"],
         "respuesta": "Hamlet"
     },
     {
