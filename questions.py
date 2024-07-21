@@ -1,7 +1,7 @@
 # Preguntas y respuestas
 trivia_books = [
     {
-        "pregunta": "¿Cúales de los siguientes libros es escrito por Alicce Kellen?",
+        "pregunta": "¿Cúales de los siguientes libros es escrito por Alice Kellen?",
         "opciones": ["Boulevard", 
                      "Antes de Diciembre", 
                      "Despues de Diciembre", 
@@ -14,14 +14,14 @@ trivia_books = [
         "respuesta": "Verdadero"
     },
     {
-        "pregunta": "¿Cuál es el símbolo principal de los Juegos Olímpicos?",
-        "opciones": ["Una llama", "Un globo", "Cinco aros entrelazados", "Una antorcha"],
-        "respuesta": "Cinco aros entrelazados"
+        "pregunta": "¿Quién fue la escritora del famoso libro 'Boulevard'?",
+        "opciones": ["Alice Kellen", "Flor M. Salvador", "Joana Marcús", "Ninguna de las anteriores"],
+        "respuesta": "Flor M. Salvador"
     },
     {
-        "pregunta": "¿Cuántos deportes formaron parte de los primeros Juegos Olímpicos modernos en 1896?",
-        "opciones": [" 9", "12", "15", "24"],
-        "respuesta": "9"
+        "pregunta": "¿Cuántos libros hay después de boulevard?",
+        "opciones": [" 2", "1", "Boulevard es el único", "4"],
+        "respuesta": "2"
     },
     {
         "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
