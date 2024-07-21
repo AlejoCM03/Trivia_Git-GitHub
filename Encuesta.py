@@ -81,3 +81,43 @@ while(1):
         exit()
     else:
         print("Introduce una opción de las que se muestran en pantalla.")
+print("-------------------------------------------------------------------------------")
+print("Quinta pregunta:")
+print("¿Qué consola de videojuegos lanzó Sony en 1994?")
+print("1.- Sega Saturn \n 2.- PlayStation \n 3.- Nintendo 64 \n 4.- Xbox \n 5.- Siguiente pregunta \n 6.- Salir. \n")
+while(1):
+    opcion=0 
+    print("\t\tIntento número",i)
+    opcion= int(input("Seleccione la opción:"))
+    i+=1
+    if opcion==1 or opcion==3 or opcion==4:
+        print("Error, intenta de nuevo")
+    elif opcion==2:
+        print("¡Correcto!")
+        break
+    elif opcion==5:
+        break
+    elif opcion==6:
+        exit()
+    else:
+        print("Introduce una opción de las que se muestran en pantalla.")
+print("-------------------------------------------------------------------------------")
+print("Sexta pregunta:")
+print("¿Quién es el desarrollador principal de la serie de videojuegos Dark Souls?")
+print("1.- Capcom \n 2.- Bethesda Game Studios \n 3.- FromSoftware \n 4.- CD Projekt Red \n 5.- Siguiente pregunta \n 6.- Salir. \n")
+while(1):
+    opcion=0 
+    print("\t\tIntento número",i)
+    opcion= int(input("Seleccione la opción:"))
+    i+=1
+    if opcion==1 or opcion==2 or opcion==4:
+        print("Error, intenta de nuevo")
+    elif opcion==3:
+        print("¡Correcto!")
+        break
+    elif opcion==5:
+        break
+    elif opcion==6:
+        exit()
+    else:
+        print("Introduce una opción de las que se muestran en pantalla.")
