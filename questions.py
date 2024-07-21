@@ -38,20 +38,20 @@ trivia_books = [
         "respuesta": "Luke Howland"
     },
     {
-        "pregunta": "¿Qué país ha ganado más medallas en la historia de los Juegos Olímpicos?",
-        "opciones": ["China", 
-                     "EUA", 
-                     "México", 
-                     "Rusia"],
-        "respuesta": "EUA"
+        "pregunta": "¿Cuál de los siguientes títulos NO pertenece a un libro?",
+        "opciones": ["Un beso bajo la lluvia", 
+                     "Después de el", 
+                     "Luces de Febrero", 
+                     "La canción"],
+        "respuesta": "La canción"
     },
     {
-        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de Invierno?",
-        "opciones": ["1920", 
-                     "1924", 
-                     "1932", 
-                     "1948"],
-        "respuesta": "1924"
+        "pregunta": "¿En qué año se estrenó 'Las luces de febrero' en librerías?",
+        "opciones": ["2020", 
+                     "2022", 
+                     "2024", 
+                     "2023"],
+        "respuesta": "2023"
     },
     {
         "pregunta": "¿Qué ciudad es la única que ha albergado los Juegos Olímpicos de Verano y de Invierno??",
