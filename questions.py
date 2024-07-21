@@ -1,5 +1,5 @@
 # Preguntas y respuestas
-trivia_github = [
+trivia_books = [
     {
         "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de la era moderna?",
         "opciones": ["1896", 

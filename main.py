@@ -1,7 +1,7 @@
 import random
 import questions
 
-trivia_github = questions.trivia_github
+trivia_books = questions.trivia_books
 # Función para hacer una pregunta y comprobar la respuesta
 def hacer_pregunta(pregunta):
     print(pregunta["pregunta"])
@@ -18,12 +18,12 @@ def hacer_pregunta(pregunta):
 # Función principal para la trivia 
 def trivia_game():
     print("¡Bienvenido a la trivia sobre Deportes (Juegos olímipicos)!")
-    random.shuffle(trivia_github)
+    random.shuffle(trivia_books)
     puntaje = 0
-    for pregunta in trivia_github:
+    for pregunta in trivia_books:
         if hacer_pregunta(pregunta):
             puntaje += 1
-    print(f"Tu puntaje final es: {puntaje} de {len(trivia_github)}")
+    print(f"Tu puntaje final es: {puntaje} de {len(trivia_books)}")
 
 # Iniciar el juego de trivia
 if __name__ == "__main__":
