@@ -1,17 +1,17 @@
 # Preguntas y respuestas
 trivia_books = [
     {
-        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de la era moderna?",
-        "opciones": ["1896", 
-                     "1900", 
-                     "1904", 
-                     "1912"],
-        "respuesta": "1896"
+        "pregunta": "¿Cúales de los siguientes libros es escrito por Alicce Kellen?",
+        "opciones": ["Boulevard", 
+                     "Antes de Diciembre", 
+                     "Despues de Diciembre", 
+                     "El mapa de los anhelos"],
+        "respuesta": "El mapa de los anhelos"
     },
     {
-        "pregunta": "¿En qué ciudad se llevaron a cabo los primeros Juegos Olímpicos de la era moderna?",
-        "opciones": ["París", "Atenas", "Xochimilco", "Estocolmo"],
-        "respuesta": "Atenas"
+        "pregunta": "El libro 'Antes de Diciembre' es el primero de la trología 'Meses a tu lado'",
+        "opciones": ["Verdadero", "Falso"],
+        "respuesta": "Verdadero"
     },
     {
         "pregunta": "¿Cuál es el símbolo principal de los Juegos Olímpicos?",
