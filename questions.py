@@ -1,90 +1,104 @@
 # Preguntas y respuestas
-trivia_github = [
+trivia_books = [
     {
-        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de la era moderna?",
-        "opciones": ["1896", 
-                     "1900", 
-                     "1904", 
-                     "1912"],
-        "respuesta": "1896"
+        "pregunta": "¿Cúales de los siguientes libros es escrito por Alice Kellen?",
+        "opciones": ["Boulevard", 
+                     "Antes De Diciembre", 
+                     "Despues de Diciembre", 
+                     "El Mapa de los Anhelos"],
+        "respuesta": "El Mapa de los Anhelos"
     },
     {
-        "pregunta": "¿En qué ciudad se llevaron a cabo los primeros Juegos Olímpicos de la era moderna?",
-        "opciones": ["París", "Atenas", "Xochimilco", "Estocolmo"],
-        "respuesta": "Atenas"
+        "pregunta": "El libro 'Antes de Diciembre' es el primero de la trología 'Meses a tu Lado'",
+        "opciones": ["Verdadero", "Falso"],
+        "respuesta": "Verdadero"
     },
     {
-        "pregunta": "¿Cuál es el símbolo principal de los Juegos Olímpicos?",
-        "opciones": ["Una llama", "Un globo", "Cinco aros entrelazados", "Una antorcha"],
-        "respuesta": "Cinco aros entrelazados"
+        "pregunta": "¿Quién fue la escritora del famoso libro 'Boulevard'?",
+        "opciones": ["Alice Kellen", "Flor M. Salvador", "Joana Marcús", "Ninguna de las anteriores"],
+        "respuesta": "Flor M. Salvador"
     },
     {
-        "pregunta": "¿Cuántos deportes formaron parte de los primeros Juegos Olímpicos modernos en 1896?",
-        "opciones": [" 9", "12", "15", "24"],
-        "respuesta": "9"
+        "pregunta": "¿Cuántos libros hay después de Boulevard?",
+        "opciones": [" 2", "1", "Boulevard es el único", "4"],
+        "respuesta": "2"
     },
     {
-        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
-        "opciones": ["Golf", 
-                     "Surf", 
-                     "Karate", 
-                     "Skateboarding"],
-        "respuesta": "Skateboarding"
+        "pregunta": "En el libro 'Antes de Diciembre' el protagonista es un hombre llamado 'Mike Ross'",
+        "opciones": ["Verdadero", 
+                     "Falso"],
+        "respuesta": "Falso"
     },
     {
-        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
-        "opciones": ["Golf", 
-                     "Surf", 
-                     "Karate", 
-                     "Skateboarding"],
-        "respuesta": "Skateboarding"
+        "pregunta": "¿Cuál de los siguientes personajes NO pertenecen a la saga 'Meses a tu lado'?",
+        "opciones": ["Jack Ross", 
+                     "Jenna", 
+                     "Will", 
+                     "Luke Howland"],
+        "respuesta": "Luke Howland"
     },
     {
-        "pregunta": "¿Qué país ha ganado más medallas en la historia de los Juegos Olímpicos?",
-        "opciones": ["China", 
-                     "EUA", 
-                     "México", 
-                     "Rusia"],
-        "respuesta": "EUA"
+        "pregunta": "¿Cuál de los siguientes títulos NO pertenece a un libro?",
+        "opciones": ["Un Beso Bajo la Lluvia", 
+                     "Después de Él", 
+                     "Luces de Febrero", 
+                     "La Canción"],
+        "respuesta": "La canción"
     },
     {
-        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de Invierno?",
-        "opciones": ["1920", 
-                     "1924", 
-                     "1932", 
-                     "1948"],
-        "respuesta": "1924"
+        "pregunta": "¿En qué año se estrenó 'Las luces de Febrero' en librerías?",
+        "opciones": ["2020", 
+                     "2022", 
+                     "2024", 
+                     "2023"],
+        "respuesta": "2023"
     },
     {
-        "pregunta": "¿Qué ciudad es la única que ha albergado los Juegos Olímpicos de Verano y de Invierno??",
-        "opciones": ["Beijing", 
-                     "Londres", 
-                     "París", 
-                     "Atenas"],
-        "respuesta": "Beijing"
-    },
-    {
-        "pregunta": "¿Qué atleta ha ganado más medallas en la historia de los Juegos Olímpicos?",
-        "opciones": ["Carl Lewis", 
-                     "Usain Bolt", 
-                     "Larisa Latynina", 
-                     "Michael Phelps"],
-        "respuesta": "Michael Phelps"
-    },
-    {
-        "pregunta": "¿Qué país ha albergado los Juegos Olímpicos más veces?",
-        "opciones": ["Estados Unidos", 
-                     "Reino Unido", 
-                     "Francia", 
-                     "Japón"],
+        "pregunta": "¿En qué país está ambientado el libro 'El Chico de Arriba'?",
+        "opciones": ["México", 
+                     "Estados Unidos", 
+                     "Chile", 
+                     "Colombia"],
         "respuesta": "Estados Unidos"
     },
     {
-        "pregunta": "¿Cuál es el deporte más antiguo que se practica en los Juegos Olímpicos modernos?",
-        "opciones": ["Atletismo", 
-                     "Natación", 
-                     "Lucha libre", 
-                     "Gimnasia"],
-        "respuesta": "Atletismo"
+        "pregunta": "¿Quién escribió 'El Principito'?",
+        "opciones": ["Carl Lewis", 
+                     "Harper Lee", 
+                     "Larisa Latynina", 
+                     "Antoine de Saint-Exupéry"],
+        "respuesta": "Antoine de Saint-Exupéry"
+    },
+    {
+        "pregunta": "'Ser o no ser, esa es la cuestión’. ¿De qué libro es esta cita?",
+        "opciones": ["Romeo y Julieta", 
+                     "El Chico de Arriba", 
+                     "Hamlet", 
+                     "El Diario de Ana Frank"],
+        "respuesta": "Hamlet"
+    },
+    {
+        "pregunta": "¿Cuándo se celebra el día del libro?",
+        "opciones": ["23 De Abril", 
+                     "12 De Octubre", 
+                     "15 de Septiembre", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "23 De Abril"
+    },
+    {
+        "pregunta": "¿Quién escribió la ‘Divina Comedia’?",
+        "opciones": ["Dante Alighieri", 
+                     "Flor M. Salvador", 
+                     "Gabriel García Márquez", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "Dante Alighieri"
+    },
+    {
+        "pregunta": "‘No hay nada como un buen libro’. ¿A qué libro pertenece esta cita?",
+        "opciones": ["El Principito", 
+                     "Romeo y Julieta", 
+                     "Alicia en el país de las maravillas", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "Alicia en el país de las maravillas"
     }
 ]
