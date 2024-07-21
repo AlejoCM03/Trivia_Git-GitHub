@@ -70,19 +70,19 @@ trivia_books = [
         "respuesta": "Antoine de Saint-Exupéry"
     },
     {
-        "pregunta": "¿Qué país ha albergado los Juegos Olímpicos más veces?",
-        "opciones": ["Estados Unidos", 
-                     "Reino Unido", 
-                     "Francia", 
-                     "Japón"],
-        "respuesta": "Estados Unidos"
+        "pregunta": "'Ser o no ser, esa es la cuestión’. ¿De qué libro es esta cita?",
+        "opciones": ["Romeo y Julieta", 
+                     "El chico de arriba", 
+                     "Hamlet", 
+                     "El diario de Ana Frank"],
+        "respuesta": "Hamlet"
     },
     {
-        "pregunta": "¿Cuál es el deporte más antiguo que se practica en los Juegos Olímpicos modernos?",
-        "opciones": ["Atletismo", 
-                     "Natación", 
-                     "Lucha libre", 
-                     "Gimnasia"],
-        "respuesta": "Atletismo"
+        "pregunta": "¿Cuándo se celebra el día del libro?",
+        "opciones": ["23 De Abril", 
+                     "12 De Octubre", 
+                     "15 de Septiembre", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "23 De Abril"
     }
 ]
