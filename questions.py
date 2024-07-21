@@ -84,5 +84,21 @@ trivia_books = [
                      "15 de Septiembre", 
                      "Ninguno de los anteriores"],
         "respuesta": "23 De Abril"
+    },
+    {
+        "pregunta": "¿Quién escribió la ‘Divina Comedia’?",
+        "opciones": ["Dante Alighieri", 
+                     "Flor M. Salvador", 
+                     "Gabriel García Márquez", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "Dante Alighieri"
+    },
+    {
+        "pregunta": "‘No hay nada como un buen libro’. ¿A qué libro pertenece esta cita?",
+        "opciones": ["El Principito", 
+                     "Romeo y Julieta", 
+                     "Alicia en el país de las maravillas", 
+                     "Ninguno de los anteriores"],
+        "respuesta": "Alicia en el país de las maravillas"
     }
 ]
