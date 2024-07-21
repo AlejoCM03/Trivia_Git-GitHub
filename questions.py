@@ -54,20 +54,20 @@ trivia_books = [
         "respuesta": "2023"
     },
     {
-        "pregunta": "¿Qué ciudad es la única que ha albergado los Juegos Olímpicos de Verano y de Invierno??",
-        "opciones": ["Beijing", 
-                     "Londres", 
-                     "París", 
-                     "Atenas"],
-        "respuesta": "Beijing"
+        "pregunta": "¿En qué país está ambientado el libro 'El chico de arriba'?",
+        "opciones": ["México", 
+                     "Estados Unidos", 
+                     "Chile", 
+                     "Colombia"],
+        "respuesta": "México"
     },
     {
-        "pregunta": "¿Qué atleta ha ganado más medallas en la historia de los Juegos Olímpicos?",
+        "pregunta": "¿Quién escribió 'El Principito'?",
         "opciones": ["Carl Lewis", 
-                     "Usain Bolt", 
+                     "Harper Lee", 
                      "Larisa Latynina", 
-                     "Michael Phelps"],
-        "respuesta": "Michael Phelps"
+                     "Antoine de Saint-Exupéry"],
+        "respuesta": "Antoine de Saint-Exupéry"
     },
     {
         "pregunta": "¿Qué país ha albergado los Juegos Olímpicos más veces?",
