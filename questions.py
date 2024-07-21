@@ -24,20 +24,18 @@ trivia_books = [
         "respuesta": "2"
     },
     {
-        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
-        "opciones": ["Golf", 
-                     "Surf", 
-                     "Karate", 
-                     "Skateboarding"],
-        "respuesta": "Skateboarding"
+        "pregunta": "En el libro 'Antes de Diciembre' el protagonista es un hombre llamado 'Mike Ross'",
+        "opciones": ["Verdadero", 
+                     "Falso"],
+        "respuesta": "Falso"
     },
     {
-        "pregunta": "¿Cuál de estos deportes es el que más recientemente se ha añadido a los Juegos Olímpicos?",
-        "opciones": ["Golf", 
-                     "Surf", 
-                     "Karate", 
-                     "Skateboarding"],
-        "respuesta": "Skateboarding"
+        "pregunta": "¿Cuál de los siguientes personajes NO pertenecen a la saga 'Meses a tu lado'?",
+        "opciones": ["Jack Ross", 
+                     "Jenna", 
+                     "Will", 
+                     "Luke Howland"],
+        "respuesta": "Luke Howland"
     },
     {
         "pregunta": "¿Qué país ha ganado más medallas en la historia de los Juegos Olímpicos?",
