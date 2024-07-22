@@ -190,6 +190,28 @@ def encuesta():
             exit()
         else:
             print("Introduce una opción de las que se muestran en pantalla.")
+    print("-------------------------------------------------------------------------------")
+    print("Décima pregunta:")
+    print("¿Qué juego de la serie Final Fantasy es conocido por su protagonista Cloud Strife y su emblemática espada Buster Sword?")
+    print("1.- Final Fantasy VI \n 2.- Final Fantasy VII \n 3.- Final Fantasy VIII \n 4.- Final Fantasy IX \n 5.- Siguiente pregunta \n 6.- Salir. \n")
+    while(1):
+        opcion=0 
+        print("\t\tIntento número",i)
+        opcion= int(input("Seleccione la opción:"))
+        i+=1
+        if opcion==4 or opcion==1 or opcion==3:
+            print("Error, intenta de nuevo")
+        elif opcion==2:
+            print("¡Correcto!")
+            PreguntasCorrectas+=1
+            break
+        elif opcion==5:
+            break
+        elif opcion==6:
+            exit()
+        else:
+            print("Introduce una opción de las que se muestran en pantalla.")
+                
 
 print("******************Bienvenido al sistema de trivia de Git 1****************** ")
 print("En esta trivia veremos que tanto conoces acerca de videojuegos")
