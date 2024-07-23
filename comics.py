@@ -25,8 +25,39 @@ preguntas = [
     {"texto": "¿Cuál es una de las debilidades principales de superman además de la kryptonita?",
      "opciones": ["Alcohol","Magia","Drogas"],
      "correcta": 2
+    },
+    {"texto": "¿Qué planeta gobierna Darksaid",
+     "opciones": ["Krypton","Marte","Apocolips"],
+     "correcta": 3
+        
+    },
+    {"texto": "¿De qué metal está hecho las garras de Wolverine?",
+     "opciones": ["Adamantium","Vibranium","Uru"],
+     "correcta": 1
+
+    },
+    {"texto": "¿De qué está hecho el escudo del Capitán América?",
+     "opciones": ["Acero","Uru","Vibranium"],
+     "correcta": 3
+
+    },
+    {"texto": "¿Cuál es la raza extraterrestre que cambia de forma y se infiltró en la Tierra ?",
+     "opciones": ["Los shiar","Skrulls","Vultrumita"],
+     "correcta": 2
+    },
+    {"texto": "¿De qué reino proviene Thor?",
+     "opciones": ["Asgard","Juntenhein","Midgar"],
+     "correcta": 1
+
+    },
+    {"texto": "¿Cómo se llama el ser que se alimenta de planetas?",
+     "opciones": ["Ego","Galactus","Thanos"],
+     "correcta": 2
+
     }
 ]
+
+print(len(preguntas))
 
 def mostrar_pregunta(pregunta):
     print("\n" + pregunta["texto"])
