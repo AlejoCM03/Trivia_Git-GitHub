@@ -46,6 +46,15 @@ preguntas = [
     {"texto": "¿Cómo se llama el ser que se alimenta de planetas?",
      "opciones": ["Ego","Galactus","Thanos"],
      "correcta": 2
+    },
+    {"texto": "¿De dónde provienen las habilidades de Shazam?",
+     "opciones": ["Dioses Egiptos","Dioses Aztecas","Dioses y sabios de la antigua Grecia"],
+     "correcta": 3
+
+    },
+    {"texto": "¿De qué univero es el superman de los 90's?",
+     "opciones": ["512","300","3"],
+     "correcta": 1
     }
 ]
 
